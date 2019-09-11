@@ -9,3 +9,24 @@ a structure for performing a proper `cellpy` session.
 - learn how to use `papermill`.
 - select a solution.
 - implement to the `cellpy` cli.
+
+
+## Content
+
+```bash
+
+cellpy_project/
+└── experiment_001
+    ├── batch_file.json
+    ├── data
+    │   ├── external
+    │   ├── interim
+    │   ├── processed
+    │   └── raw
+    ├── out
+    │   └── note.md
+    ├── notebook: 01_processing.ipynb
+    ├── notebook: 02_further_processing.ipynb
+    └── notebook: 03_further_processing.ipynb
+
+```

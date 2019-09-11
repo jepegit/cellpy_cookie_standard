@@ -1,7 +1,5 @@
 {
     "project_name": "cellpy_project",
     "session_id": "experiment_001",
-    "in_data": "in",
-    "out_data": "out",
     "nb_name_processing": "processing"
 }
