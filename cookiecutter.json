@@ -1,5 +1,5 @@
 {
     "project_name": "cellpy_project",
     "session_id": "experiment_001",
-    "nb_name_processing": "processing"
+    "nb_name_processing": "{{cookiecutter.session_id}}_processing"
 }
