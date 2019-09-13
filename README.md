@@ -1,14 +1,10 @@
-# Set up your experiment using `cookie_cellpy`
+# Set up your experiment using `cellpy_cookie_standard`
 
 The main reason for this repository is to let you easily create
 a structure for performing a proper `cellpy` session.
 
-## Plan
-
-- learn how to use `cookiecutter`.
-- learn how to use `papermill`.
-- select a solution.
-- implement to the `cellpy` cli.
+The following template is suitable when processing a set of files
+using the batch utility.
 
 
 ## Content
@@ -27,6 +23,7 @@ cellpy_project/
     │   └── note.md
     ├── notebook: 01_processing.ipynb
     ├── notebook: 02_further_processing.ipynb
-    └── notebook: 03_further_processing.ipynb
+    ├── notebook: 03_further_processing.ipynb
+    └── notebook: 04_further_processing.ipynb
 
 ```
