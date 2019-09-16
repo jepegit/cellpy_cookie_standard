@@ -27,3 +27,5 @@ cellpy_project/
     └── notebook: 04_further_processing.ipynb
 
 ```
+
+## Notes
