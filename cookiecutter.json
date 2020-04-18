@@ -1,8 +1,9 @@
 {
     "project_name": "cellpy_project",
     "session_id": "experiment_001",
-    "author_name": "Jan Petter Mæhlen",
+    "author_name": "Jan Petter Maehlen",
     "date": "{% now 'local' %}",
-    "notebook_name": "{{cookiecutter.date.replace('-','_')}}_{{cookiecutter.session_id}}",
+    "experiment_folder_name": "{{cookiecutter.date.replace('-','_')}}_{{cookiecutter.session_id}}",
+    "notebook_name": "{{cookiecutter.session_id}}",
     "_extensions": ["jinja2_time.TimeExtension"]
 }
